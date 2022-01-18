@@ -26,9 +26,9 @@ Docker approach, using [laravel sail](https://laravel.com/docs/8.x/installation#
 
 # Important concepts to get yourself prepared to read the swipe code
 - [request lifecycle](https://laravel.com/docs/8.x/lifecycle)
+- [models](https://laravel.com/docs/8.x/eloquent-relationships)
 - [migration](https://laravel.com/docs/8.x/migrations#generating-migrations)
 - [factory/seeder](https://laravel.com/docs/8.x/seeding#introduction)
-- [models](https://laravel.com/docs/8.x/eloquent-relationships)
 - [controller](https://laravel.com/docs/8.x/controllers)
 - [validation](https://laravel.com/docs/8.x/validation)
 - [eloquent](https://laravel.com/docs/8.x/eloquent)
